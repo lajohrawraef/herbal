@@ -3,9 +3,9 @@
   "category": "misc",
   "ingredients": [
     "minecraft:glass_bottle",
-    "minecraft:minecraft:closed_eyeblossom",
-    "minecraft:minecraft:closed_eyeblossom",
-    "minecraft:minecraft:closed_eyeblossom"
+    "minecraft:closed_eyeblossom",
+    "minecraft:closed_eyeblossom",
+    "minecraft:closed_eyeblossom"
   ],
   "result": {
     "count": 1,

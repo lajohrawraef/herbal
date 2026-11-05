@@ -14,8 +14,8 @@
       "potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:saturatuion",
-            "duration": 12
+            "id": "minecraft:saturation",
+            "amplifier": 1
           }
         ]
       },
