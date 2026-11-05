@@ -5,9 +5,6 @@
     "minecraft:glass_bottle",
     "minecraft:torchflower",
     "minecraft:torchflower",
-    "minecraft:torchflower",
-    "minecraft:torchflower",
-    "minecraft:torchflower",
     "minecraft:torchflower"
   ],
   "result": {
@@ -22,7 +19,7 @@
           }
         ]
       },
-      "custom_name": "Herbal Potion"
+      "custom_name": "Brewed Torchflower"
     }
   }
 }

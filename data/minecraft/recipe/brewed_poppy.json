@@ -3,12 +3,9 @@
   "category": "misc",
   "ingredients": [
     "minecraft:glass_bottle",
-    "minecraft:white_tulip",
-    "minecraft:white_tulip",
-    "minecraft:white_tulip",
-    "minecraft:white_tulip",
-    "minecraft:white_tulip",
-    "minecraft:white_tulip"
+    "minecraft:poppy",
+    "minecraft:poppy",
+    "minecraft:poppy"
   ],
   "result": {
     "count": 1,
@@ -17,12 +14,12 @@
       "potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:weakness",
-            "duration": 140
+            "id": "minecraft:night_vision",
+            "duration": 200
           }
         ]
       },
-      "custom_name": "Herbal Potion"
+      "custom_name": "Brewed Poppy"
     }
   }
 }

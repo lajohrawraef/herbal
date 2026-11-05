@@ -3,12 +3,9 @@
   "category": "misc",
   "ingredients": [
     "minecraft:glass_bottle",
-    "minecraft:azure_bluet",
-    "minecraft:azure_bluet",
-    "minecraft:azure_bluet",
-    "minecraft:azure_bluet",
-    "minecraft:azure_bluet",
-    "minecraft:azure_bluet"
+    "minecraft:wither_rose",
+    "minecraft:wither_rose",
+    "minecraft:wither_rose"
   ],
   "result": {
     "count": 1,
@@ -17,12 +14,12 @@
       "potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:blindness",
-            "duration": 160
+            "id": "minecraft:wither",
+            "duration": 140
           }
         ]
       },
-      "custom_name": "Herbal Potion"
+      "custom_name": "Brewed Wither Rose"
     }
   }
 }

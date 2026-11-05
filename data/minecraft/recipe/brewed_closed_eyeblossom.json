@@ -5,9 +5,6 @@
     "minecraft:glass_bottle",
     "minecraft:minecraft:closed_eyeblossom",
     "minecraft:minecraft:closed_eyeblossom",
-    "minecraft:minecraft:closed_eyeblossom",
-    "minecraft:minecraft:closed_eyeblossom",
-    "minecraft:minecraft:closed_eyeblossom",
     "minecraft:minecraft:closed_eyeblossom"
   ],
   "result": {
@@ -18,11 +15,11 @@
         "custom_effects": [
           {
             "id": "minecraft:nausea",
-            "duration": 160
+            "duration": 140
           }
         ]
       },
-      "custom_name": "Herbal Potion"
+      "custom_name": "Brewed Closed Eyeblossom"
     }
   }
 }

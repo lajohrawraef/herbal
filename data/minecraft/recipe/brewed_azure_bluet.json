@@ -3,12 +3,9 @@
   "category": "misc",
   "ingredients": [
     "minecraft:glass_bottle",
-    "minecraft:allium",
-    "minecraft:allium",
-    "minecraft:allium",
-    "minecraft:allium",
-    "minecraft:allium",
-    "minecraft:allium"
+    "minecraft:azure_bluet",
+    "minecraft:azure_bluet",
+    "minecraft:azure_bluet"
   ],
   "result": {
     "count": 1,
@@ -17,12 +14,12 @@
       "potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:fire_resistance",
-            "duration": 240
+            "id": "minecraft:blindness",
+            "duration": 440
           }
         ]
       },
-      "custom_name": "Herbal Potion"
+      "custom_name": "Brewed Azure Bluet"
     }
   }
 }

@@ -3,12 +3,9 @@
   "category": "misc",
   "ingredients": [
     "minecraft:glass_bottle",
-    "minecraft:open_eyeblossom",
-    "minecraft:open_eyeblossom",
-    "minecraft:open_eyeblossom",
-    "minecraft:open_eyeblossom",
-    "minecraft:open_eyeblossom",
-    "minecraft:open_eyeblossom"
+    "#minecraft:tulip",
+    "#minecraft:tulip",
+    "#minecraft:tulip"
   ],
   "result": {
     "count": 1,
@@ -17,12 +14,12 @@
       "potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:blindness",
-            "duration": 160
+            "id": "minecraft:weakness",
+            "duration": 140
           }
         ]
       },
-      "custom_name": "Herbal Potion"
+      "custom_name": "Brewed Tulip"
     }
   }
 }

@@ -3,12 +3,9 @@
   "category": "misc",
   "ingredients": [
     "minecraft:glass_bottle",
-    "minecraft:pink_tulip",
-    "minecraft:pink_tulip",
-    "minecraft:pink_tulip",
-    "minecraft:pink_tulip",
-    "minecraft:pink_tulip",
-    "minecraft:pink_tulip"
+    "minecraft:oxeye_daisy",
+    "minecraft:oxeye_daisy",
+    "minecraft:oxeye_daisy"
   ],
   "result": {
     "count": 1,
@@ -17,12 +14,12 @@
       "potion_contents": {
         "custom_effects": [
           {
-            "id": "minecraft:weakness",
+            "id": "minecraft:regeneration",
             "duration": 140
           }
         ]
       },
-      "custom_name": "Herbal Potion"
+      "custom_name": "Brewed Oxeye Daisy"
     }
   }
 }
