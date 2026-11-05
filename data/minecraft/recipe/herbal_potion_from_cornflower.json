@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:corn_flower",
+    "minecraft:corn_flower",
+    "minecraft:corn_flower",
+    "minecraft:corn_flower",
+    "minecraft:corn_flower",
+    "minecraft:corn_flower"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:potion",
+    "components": {
+      "potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:jump_boost",
+            "duration": 160
+          }
+        ]
+      },
+      "custom_name": "Herbal Potion"
+    }
+  }
+}

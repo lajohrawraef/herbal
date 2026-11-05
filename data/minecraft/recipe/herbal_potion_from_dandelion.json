@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:dandelion",
+    "minecraft:dandelion",
+    "minecraft:dandelion",
+    "minecraft:dandelion",
+    "minecraft:dandelion",
+    "minecraft:dandelion"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:potion",
+    "components": {
+      "potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:saturatuion",
+            "duration": 80
+          }
+        ]
+      },
+      "custom_name": "Herbal Potion"
+    }
+  }
+}
